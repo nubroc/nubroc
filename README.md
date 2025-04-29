@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numa</h1>
-<h3 align="center">A passionate frontend developer from 🇫🇷</h3>
+<h3 align="center">A passionate developer from 🇫🇷</h3>
 
 <p align="center">
   🔭 I'm currently working on <a href="https://github.com/nubroc/portfolio" target="_blank">My Portfolio</a>
