@@ -8,9 +8,6 @@
   <a href="https://github.com/nubroc">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/numab">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
 </div>
 
 ## 🚀 About Me
@@ -19,7 +16,6 @@ I'm a passionate full-stack developer from France 🇫🇷 with expertise in web
 
 ## 🔭 Current Projects
 
-- [My Portfolio](https://github.com/nubroc/portfolio) - Showcasing my work and skills
 - *More projects coming soon!*
 
 ## 💼 Professional Skills
@@ -78,8 +74,6 @@ I'm a passionate full-stack developer from France 🇫🇷 with expertise in web
 ## 📫 Connect With Me
 
 - **GitHub**: [nubroc](https://github.com/nubroc)
-- **LinkedIn**: [Numa](https://linkedin.com/in/numab)
-- **Portfolio**: Coming soon!
 
 ## 📊 GitHub Statistics
 
@@ -102,3 +96,4 @@ I'm a passionate full-stack developer from France 🇫🇷 with expertise in web
 <div align="center">
   <i>⭐️ From <a href="https://github.com/nubroc">Numa</a></i>
 </div>
+
